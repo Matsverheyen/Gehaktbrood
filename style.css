@@ -12,6 +12,16 @@
   line-height: 36px;
 }
 
+a {
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 36px;
+  margin: 40px;
+  line-height: 36px;
+  color: black;
+}
+
 #tipbox {
   background-color: #def6ed;
   border-radius: 4px;
